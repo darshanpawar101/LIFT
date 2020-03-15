@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790346030567",
+    "firebase_url": "https://lift-4a298.firebaseio.com",
+    "project_id": "lift-4a298",
+    "storage_bucket": "lift-4a298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790346030567:android:6cd0a196379b381bdbf142",
+        "android_client_info": {
+          "package_name": "com.darshan.lift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790346030567-7llcf8pjehm8ohshckdulsn6827n0a51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darshan.lift",
+            "certificate_hash": "e0c8c9a43e8d6a901253d0b590a02aba4244da4a"
+          }
+        },
+        {
+          "client_id": "790346030567-vb7jul9e8aum1mbli1b6g8r1eb72maka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfVLR9A-NPRV9lBEVcF_tHrurBn4nTiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790346030567-vb7jul9e8aum1mbli1b6g8r1eb72maka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

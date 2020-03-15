@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LIFT</string>
+
+    <string name="google_maps_API_key">AIzaSyBnHvVZtkjT8d3myr7ElKk0hdWd-LGTEp0</string>
+
+    <string name="google_maps_key">map_key</string>
+
+    <string-array name="vehicle">
+
+        <item>Select Vehicle Type</item>
+        <item>2 Wheeler</item>
+        <item>3 Wheeler</item>
+        <item>4 Wheeler</item>
+
+    </string-array>
+
+    <string-array name="gender">
+
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string name="collection_user_locations">>User Locations</string>
+
+    <string name="collection_users">Users</string>
+</resources>
